@@ -2,9 +2,9 @@
 
 I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magister in mechanical engineering, Python programmer and Data science enthusiast
 
-🌱 I’m currently learning React.js, Docker, Data Science techniques, Unsupervised Learning
+🌱 I’m currently learning c, Docker, Data Science techniques, Unsupervised Learning
 
-💬 Ask me about Machine Learning, Supervised Learning, research
+💬 Ask me about research, looker studio, data analysis
 <!--
 **lacar0la/lacar0la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
