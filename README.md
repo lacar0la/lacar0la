@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Carolina Hernández👋
 
+I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magister in mechanical engineering, Python programmer and Data science enthusiast
+
+🌱 I’m currently learning React.js, Docker, Data Science techniques, Unsupervised Learning
+
+💬 Ask me about Machine Learning, Supervised Learning, research
 <!--
 **lacar0la/lacar0la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
