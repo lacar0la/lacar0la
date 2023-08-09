@@ -1,7 +1,8 @@
 ### Hi there, I'm Carolina Hernández👋
 
 I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magister in mechanical engineering, Python programmer and Data science enthusiast.
-I'm a student of [**42 malaga**](https://www.42barcelona.com/es/)
+
+Student of [**42 Málaga**](https://www.42malaga.com/es/)
 
 🌱 I’m currently learning c, Docker, Data Science techniques, Unsupervised Learning
 
