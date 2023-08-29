@@ -1,5 +1,5 @@
 <img src="img.gif" alt="Header GIF" width="100%" />
-### Hi there, I'm Carolina Hernández👋
+<h1> Hi there, I'm Carolina Hernández👋 </h1>
 
 I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magister in mechanical engineering, Python programmer and Data science enthusiast.
 
