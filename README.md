@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Carolina Hernández👋 </h1>
 
-I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magister in mechanical engineering, Python programmer and Data science enthusiast but I prefer to be called trouble solver :D
+I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magister in mechanical engineering, Python programmer and Data science enthusiast but I prefer to be called problem solver :D
 
 Student of [**42 Málaga**](https://www.42malaga.com/es/)
 
