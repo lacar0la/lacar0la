@@ -4,7 +4,7 @@ I'm a multidisciplinary teamwork-oriented researcher, chemical engineer, magiste
 
 Student of [**42 Málaga**](https://www.42malaga.com/es/)
 
-🌱 I’m currently learning C, Docker, Data Science techniques, unsupervised Learning
+🌱 I’m currently learning C, Docker, Data Science techniques, unsupervised Learning, python
 
 💬 Ask me about research, looker studio, data analysis
 <!--
